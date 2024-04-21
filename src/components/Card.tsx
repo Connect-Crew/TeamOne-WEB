@@ -47,7 +47,7 @@ export const Card = () => {
             objectFit="cover"
           ></Image>
 
-          <div className="absolute top-0 bg-transparent gap-1 p-4 z-20 opacity-0 hover:opacity-100 w-full h-[200px]">
+          <div className="absolute top-0 bg-transparent space-x-1  p-4 z-20 opacity-0 hover:opacity-100 w-full h-[200px]">
             <span className=" rounded-2xl py-0.5 px-2  gap-2.5 bg-red-300 text-xs">
               진행중
             </span>
